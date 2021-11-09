@@ -1,5 +1,6 @@
 # Bootcamp-JavaScript-Game-Developer
-Bootcamp Java
+
+Aprenda de forma divertida a criar jogos com JavaScript para inciar a sua carreira em desenvolvimento front-end e se transformar em um dev de alto nível.
 
 * Bem-vindo à DIO
 * Lógica de Programação Essencial
