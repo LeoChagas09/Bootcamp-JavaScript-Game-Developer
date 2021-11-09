@@ -1,5 +1,5 @@
 # Dio Dino Game 
-Dino game for Digital Innovation One Lesson, using only JS, HTML and CSS
+Jogo do Dinossauro - Digital Innovation One Lesson, usando JS, HTML e CSS.
 
 ![screenshot](example.png?raw=true "screenshot")
 
