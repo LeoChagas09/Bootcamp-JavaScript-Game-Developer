@@ -14,7 +14,7 @@ Aprenda de forma divertida a criar jogos com JavaScript para inciar a sua carrei
 * Introdução a Programação com JavaScript ( 3 Desafios)
 * Construindo o seu primeiro jogo de naves
 * Desmistificando map, filter e reduce
-* FUndamentos Aritméticos em JavaScript ( 5 Desafios)
+* Fundamentos Aritméticos em JavaScript ( 5 Desafios)
 * Criando seu jogo de memória estilo Genius
 * Desenvolvimento avançado com JavaScript ES6
 * Recriando o famoso jogo do dinossauro sem internet
