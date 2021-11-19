@@ -1,4 +1,4 @@
-# Jogo de Memória - tema Futebol 🙃
+# Jogo de Memória - tema Futebol ⚽
 
 Esse é o repositório da aula de Javascript, na qual foi feito um jogo da memória com a temática de Futebol! 
 
