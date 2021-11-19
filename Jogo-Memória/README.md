@@ -1,6 +1,6 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Jogo de Memória - tema Futebol 🙃
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um jogo da memória com a temática de Futebol! 
+Esse é o repositório da aula de Javascript, na qual foi feito um jogo da memória com a temática de Futebol! 
 
 ### Os requisitos são:
 
